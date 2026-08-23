@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestion d'un Restaurant - Base de données MySQL
 
 Projet réalisédans le cadre du cours INFO0303 (L2 Informatique, URCA).
@@ -14,3 +15,6 @@ Approche MERISE complète : analyse des besoins, MCT, MCD, MLD, normalisation (3
 
 ## Outils utilisés
 Looping (modélisation MERISE), Wampserver, MySQL, phpMyAdmin
+=======
+# projet-bdd-restaurant
+>>>>>>> 51378de221b8d93c4f2dea9e9fd30425f81cc5bb
